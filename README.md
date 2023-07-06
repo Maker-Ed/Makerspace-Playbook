@@ -1,14 +1,22 @@
 # Makerspace Playbook
 
-## School Edition
+## Welcome...
 
-**Spring 2013**
+to a community of people who have a passion for making things, and who want to share that with others by making with others by setting up a Makerspace. This playbook will help you establish a wonderful new resource in your school, neighborhood, or wider local community. It shares the knowledge and experience from the Makerspace team as well as from those who have already started Makerspaces.
 
-<div align="left">
+We know that the thought of getting a Makerspace started can be daunting, whether it’s finding a facility, engaging members or students, recruiting mentors, dealing with liability, etc. We want your Makerspace to succeed, to expand the Maker community and grow the Maker movement, to share the Maker mindset and DIY mentality, and to engage and stimulate your neighborhood, school, town or region. We wrote this playbook for Makerspace advocates like you—teachers, parents, Makers, etc.— to make it easier to launch a space and get a program up and running.
 
-<img src=".gitbook/assets/0 (1).jpeg" alt="" width="150">
+We like to say that if you can imagine it, you can make it. So let’s make your Makerspace!
 
-</div>
+### Contributing
+
+This is a fully open-source project led by MakerEd, visit our [Resource Library](https://makered.org/resources/) for more helpful guides and resources. We would like this document to grow and reflect new practices and current experiences. If you find anything we can refine, add or share, there's a few ways to contribute.
+
+If you are familiar with editing files in Github, you can edit each section directly using the "Edit on Github" button on the right-hand menu, or visit the repo here: [https://github.com/Maker-Ed/Makerspace-Playbook/](https://github.com/Maker-Ed/Makerspace-Playbook/).
+
+For makers  Github, you can create a new [Discussion](https://github.com/Maker-Ed/Makerspace-Playbook/discussions) to ask a question, share an idea for a new topic, or offer new insights and anecdotes that we may include in playbook; no coding required!
+
+If would like to contribute comments via email, please address them to [info@makered.org](mailto:info@makered.org)
 
 <div align="left">
 
@@ -16,29 +24,11 @@
 
 </div>
 
-This document is distributed in 2013 by Maker Media under an Attribution-Non-Commercial-ShareAlike Creative Commons license (CC BY-NC-SA.)
+This playbook was adapted from a pdf distributed in 2013 by Maker Media under an Attribution-Non-Commercial-ShareAlike Creative Commons license (CC BY-NC-SA.)
 
 This license allows you to remix, tweak, and build upon this work non-commercially, as long as you credit Maker Media and license your new creations under the identical terms.
 
-The majority of this Makerspace Playbook was written by the Makerspace team, including Michelle Hlubinka, Dale Dougherty, Parker Thomas, Stephanie Chang, Steve Hoefer, Isaac Alexander, Devon McGuire, with significant contributions from Aaron Vanderwerff, Barry Scott, and other MENTOR Makerspace pilot school teachers. Some sections were adapted from the Mini Maker Faire and Maker Club Playbooks written by Sabrina Merlo, Sherry Huss, Tony DeRose, Karen Wilkinson, Mike Petrich, Suzie Lee, Shawn Neely, Darrin Rice, and others.
-
-The development of this playbook was funded by MENTOR Makerspace, a project supported by an award from the Defense Advanced Research Projects Agency (DARPA) in support of its Manufacturing Experimentation and Outreach (MENTOR) program, an initiative aimed at introducing new design tools and collaborative practices of making to high school students. The MENTOR Makerspace program was developed by Dale Dougherty of Maker Media in partnership with Dr. Saul Griffith of Otherlab.
-
-**Welcome…**
-
-to a community of people who have a passion for making things, and who want to share that with others by making with others by setting up a Makerspace. This playbook will help you establish a wonderful new resource in your school, neighborhood, or wider local community. It shares the knowledge and experience from the Makerspace team as well as from those who have already started Makerspaces.
-
-We know that the thought of getting a Makerspace started can be daunting, whether it’s finding a facility, engaging members or students, recruiting mentors, dealing with liability, etc. We want your Makerspace to succeed, to expand the Maker community and grow the Maker movement, to share the Maker mindset and DIY mentality, and to engage and stimulate your neighborhood, school, town or region. We wrote this playbook for Makerspace advocates like you—teachers, parents, Makers, etc.— to make it easier to launch a space and get a program up and running.
-
-In our effort to continually improve the material we provide, we heartily encourage you to contact us with anything we can refine, add or share. Please report your experiences to us so we can enrich the book with new insights, advice, illustrations, and anecdotes. We would like this document to grow and reflect new practices and current experiences. If you are reading this in a PDF or printed format and would like to contribute comments via email, please address them to [**contact@makerspace.com**.](mailto:contact@makerspace.com)
-
-For more information and continuing updates, visit **makerspace.com**
-
-We like to say that if you can imagine it, you can make it. So let’s make your Makerspace!
-
-**Makerspace Playbook**
-
-Table of Contents
+### Table of Contents
 
 1. **Beginnings** _what we’re doing and why; origins of the Maker movement_
 2. **Places** _making a space more conducive to a community that makes together_

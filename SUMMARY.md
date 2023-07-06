@@ -28,3 +28,4 @@
     * [Sample Safety Plan](makerspace-playbook/12-resources/sample-safety-plan.md)
     * [Recommended Suppliers](makerspace-playbook/12-resources/recommended-suppliers.md)
     * [Makerspace-in-a-Box](makerspace-playbook/12-resources/makerspace-in-a-box.md)
+  * [Acknowledgements and Download](makerspace-playbook/acknowledgements-and-download.md)
