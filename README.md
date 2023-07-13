@@ -12,9 +12,9 @@ We like to say that if you can imagine it, you can make it. So let’s make your
 
 This is a fully open-source project led by MakerEd, visit our [Resource Library](https://makered.org/resources/) for more helpful guides and resources. We would like this document to grow and reflect new practices and current experiences. If you find anything we can refine, add or share, there's a few ways to contribute.
 
-If you are familiar with editing files in Github, you can edit each section directly using the "Edit on Github" button on the right-hand menu, or visit the repo here: [https://github.com/Maker-Ed/Makerspace-Playbook/](https://github.com/Maker-Ed/Makerspace-Playbook/).
-
-For makers  Github, you can create a new [Discussion](https://github.com/Maker-Ed/Makerspace-Playbook/discussions) to ask a question, share an idea for a new topic, or offer new insights and anecdotes that we may include in playbook; no coding required!
+* If you are familiar with editing files in Github, you can submit changes using the "Edit on Github" button on the right-hand menu, or visit the repo: [https://github.com/Maker-Ed/Makerspace-Playbook/](https://github.com/Maker-Ed/Makerspace-Playbook/).
+* For makers unfamiliar with Github, you can create a new [Discussion](https://github.com/Maker-Ed/Makerspace-Playbook/discussions) to ask a question, share an idea for a new topic, or offer new insights and anecdotes that we may include in playbook; **no coding required!**
+  * Alternatively, you can comment on the 2013 version of this book on [Google Docs](https://docs.google.com/document/d/1Hr37yT28gaTIbvt3pOBCDdIb5P8rxD7u/edit).
 
 If would like to contribute comments via email, please address them to [info@makered.org](mailto:info@makered.org)
 
@@ -25,8 +25,6 @@ If would like to contribute comments via email, please address them to [info@mak
 </div>
 
 This playbook was adapted from a pdf distributed in 2013 by Maker Media under an Attribution-Non-Commercial-ShareAlike Creative Commons license (CC BY-NC-SA.)
-
-This license allows you to remix, tweak, and build upon this work non-commercially, as long as you credit Maker Media and license your new creations under the identical terms.
 
 ### Table of Contents
 
