@@ -12,7 +12,7 @@ We like to say that if you can imagine it, you can make it. So let’s make your
 
 This is a fully open-source project led by MakerEd, visit our [Resource Library](https://makered.org/resources/) for more helpful guides and resources. We would like this document to grow and reflect new practices and current experiences. If you find anything we can refine, add or share, there's a few ways to contribute.
 
-* If you are familiar with editing files in Github, you can submit changes using the "Edit on Github" button on the right-hand menu, or visit the repo: [https://github.com/Maker-Ed/Makerspace-Playbook/](https://github.com/Maker-Ed/Makerspace-Playbook/).
+* If you're familiar with Github, you can submit changes using the "Edit on Github" button on the right-hand menu, or visit the repo: [https://github.com/Maker-Ed/Makerspace-Playbook/](https://github.com/Maker-Ed/Makerspace-Playbook/). Check out our [quick guide](https://github.com/Maker-Ed/github-tutorial-for-makers/) on submitting changes.
 * For makers unfamiliar with Github, you can create a new [Discussion](https://github.com/Maker-Ed/Makerspace-Playbook/discussions) to ask a question, share an idea for a new topic, or offer new insights and anecdotes that we may include in playbook; **no coding required!**
   * Alternatively, you can comment on the 2013 version of this book on [Google Docs](https://docs.google.com/document/d/1Hr37yT28gaTIbvt3pOBCDdIb5P8rxD7u/edit).
 
